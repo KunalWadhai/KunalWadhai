@@ -10,7 +10,8 @@
 
 <h2>🚀 About Me</h2>
 
-- 🎓 Final year Computer Science & Engineering student
+- 🎓 CS Grad'2025.
+- 👨‍💻 Exploring Backend Development.
 - 💡 Passionate about **Software Development**, **DSA**, and **System Design**
 - 👨‍💻 Committed to consistent learning and daily problem solving
 - 📈 Focused on *growth over outcome*
@@ -104,6 +105,10 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-ubuntu-logo-icon-202420.png" alt="Ubuntu" width="50" height="50"/>
   <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="120" height="70"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png" alt="Postman" width="60" height="50"/>
+
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-icon-svg-png-download-226035.png?f=webp&w=512" alt="nodejs" width="60" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/express-js-icon-svg-png-download-9200748.png?f=webp&w=512" alt="expressjs" width="60" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-icon-svg-png-download-1175140.png?f=webp&w=512" alt="mongodb" width="60" height="50"/>
 </p>
 
 ---
