@@ -1,132 +1,42 @@
-<h1 align="center">Hey 👋, I'm Kunal from India</h1>
+🌟 Kunal Wadhai | Aspiring Software Engineer
+<p align="center"> <a href="https://github.com/KunalWadhai"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+👋,+I'm+Kunal+from+India;Computer+Science+Undergrad+%7C+Grad'25;DSA+%26+Competitive+Programming+Enthusiast;Backend+Development+Explorer;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG"/> </a> </p>
+🚀 About Me
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Aspiring+Software+Engineer;DSA+%7C+Competitive+Programming+Enthusiast;Lifelong+Learner+%26+Problem+Solver;&center=true&width=500&height=50">
-  </a>
-</p>
+🎓 CS Undergrad (2025)
 
----
+💻 Exploring Backend Development with Node.js, Express, MongoDB
 
-<h2>🚀 About Me</h2>
+🔥 Passionate about DSA, System Design & Competitive Programming
 
-- 🎓 CS Grad'2025.
-- 👨‍💻 Exploring Backend Development.
-- 💡 Passionate about **Software Development**, **DSA**, and **System Design**
-- 👨‍💻 Committed to consistent learning and daily problem solving
-- 📈 Focused on *growth over outcome*
-- 📬 Reach me at: **kunalwadhai456@gmail.com**
+📈 Obsessed with growth over outcome
 
----
+💡 Believer in consistency → mastery
 
-### 🧠 Problem Solving Journey
+📬 Reach me at: kunalwadhai456@gmail.com
 
-- 💻 Addicted to cracking **Data Structures & Algorithms** problems
-- 🔥 **200+ Day Leetcode Daily Streak**
-- 🏅 Earned **Leetcode Annual Badge 2024**
-- 🚀 Daily practice keeps me sharp and consistent
+🧠 Problem Solving Journey
 
----
+💻 Addicted to solving Data Structures & Algorithms problems
 
-<h2>📌 Connect With Me</h2>
+🔥 Maintained a 200+ Day LeetCode Daily Streak
 
-<p align="left">
-  <a href="https://linkedin.com/in/kunal-wadhai" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
-  </a>
-  <a href="https://www.instagram.com/kunalwadhai11011/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/AloneWarrior27" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-9420781-7651211.png" height="40" width="40" />
-  </a>
-</p>
+🏅 Holder of LeetCode Annual Badge 2024
 
----
+🚀 Daily practice = consistency + sharpness
 
-## 💻 Coding Platforms
+📌 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/kunal-wadhai"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/AloneWarrior27"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://www.instagram.com/kunalwadhai11011/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
+💻 Coding Profiles
+<p align="center"> <a href="https://leetcode.com/kunal_wadhai"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://www.codechef.com/users/coder_kunal"><img src="https://img.shields.io/badge/CodeChef-9146FF?style=for-the-badge&logo=codechef&logoColor=white"/></a> <a href="https://www.hackerrank.com/kunal%20wadhai"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a> <a href="https://auth.geeksforgeeks.org/user/kunalwadhai456"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> </p>
+🏆 Achievements
+<p align="center"> <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="170px" title="LeetCode Annual Badge 2024"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="150px" /> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="150px" /> <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="150px" /> </p> <p align="center"> <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="70px"/> <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="70px"/> <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="70px"/> <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="70px"/> <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="70px"/> <img src="https://leetcode.com/static/images/badges/dcc-2024-5.png" width="70px"/> </p>
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,nodejs,express,mongodb,mysql,git,ubuntu,postman" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KunalWadhai&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalWadhai&theme=tokyonight&hide_border=true" height="180px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalWadhai&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KunalWadhai&label=Profile+Views&color=blueviolet&style=for-the-badge"/> </p>
 
-<p>
-  <a href="https://www.leetcode.com/kunal_wadhai" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" width="50" />
-  </a>
-  <a href="https://www.codechef.com/users/coder_kunal" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="50" width="50" />
-  </a>
-  <a href="https://www.hackerrank.com/kunal wadhai" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="50" width="50" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/kunalwadhai456" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40" />
-  </a>
-</p>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="170px" height="170px" title="Leetcode Annual Badge 2024" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="150px" height="150px" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="150px" height="150px" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="150px" height="150px" />
-</div>
-
-<div align="center">
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-8.png" width="70px" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-9.png" width="70px" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-10.png" width="70px" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="70px" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="70px" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="70px" />
-</div>
-
-<div align="center">
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="70px" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="70px" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="70px" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-5.png" width="70px" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-6.png" width="70px" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-7.png" width="70px" />
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-ubuntu-logo-icon-202420.png" alt="Ubuntu" width="50" height="50"/>
-  <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="120" height="70"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png" alt="Postman" width="60" height="50"/>
-
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-icon-svg-png-download-226035.png?f=webp&w=512" alt="nodejs" width="60" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/express-js-icon-svg-png-download-9200748.png?f=webp&w=512" alt="expressjs" width="60" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-icon-svg-png-download-1175140.png?f=webp&w=512" alt="mongodb" width="60" height="50"/>
-</p>
-
----
-
-## 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KunalWadhai&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KunalWadhai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+✨ "Consistency is the key to mastery. Keep building, keep solving, keep growing." 🚀
