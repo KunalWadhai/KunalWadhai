@@ -12,8 +12,6 @@
 
 💡 Believer in consistency → mastery
 
-📬 Reach me at: kunalwadhai456@gmail.com
-
 🧠 Problem Solving Journey
 
 💻 Addicted to solving Data Structures & Algorithms problems
